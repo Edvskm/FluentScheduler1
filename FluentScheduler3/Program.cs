@@ -1,4 +1,5 @@
-﻿using FluentScheduler;
+﻿// Slobodan Joveski
+using FluentScheduler;
 using FluentScheduler3.SchedulerAction;
 using FluentScheduler3.SchedulerJob;
 using System;
